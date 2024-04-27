@@ -142,12 +142,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #343a40;
+  color: #7f72c8;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #000000;
+    color: #7562de;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
@@ -7556,3 +7556,12 @@ footer a {
 @media screen and (max-width: 768px) {
   .switcher-wrap {
     display: none; } }
+
+
+.title {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px;
+}
