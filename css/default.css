@@ -33,3 +33,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+a {
+  text-decoration: none;
+  color: #4747bd;
+}
+
+a:hover {
+  color: #37369a;
+}
